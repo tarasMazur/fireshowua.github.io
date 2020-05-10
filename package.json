@@ -1,0 +1,22 @@
+{
+  "name": "fireshow-ua",
+  "version": "1.0.0",
+  "description": "Project for theatre fire scorpius",
+  "author": "tarasMazur",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "nuxt": "^2.0.0",
+    "vue-i18n": "^8.17.4"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.0",
+    "sass-loader": "^8.0.2"
+  }
+}
